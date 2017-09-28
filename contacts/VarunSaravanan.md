@@ -7,4 +7,4 @@ Programming languages: Matlab, Python, R
 Software libraries: Numpy, pandas, matplotlib  
 Github: https://github.com/zbpvarun  
 website: N/A  
-twitter: N/A  
+twitter: N/D 
